@@ -1,0 +1,1 @@
+if(new URLSearchParams(location.search).get('v')==='34')location.replace('https://lzmochen.github.io/tyut-mindedge-20261116/versions/v3.4/'+location.hash);
